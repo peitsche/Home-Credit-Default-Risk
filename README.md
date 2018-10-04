@@ -1,5 +1,5 @@
 # Home-Credit-Default-Risk
-Kaggle challenge: Home Credit Default Risk 
+Kaggle challenge: [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk). 
 
 ## Description
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
