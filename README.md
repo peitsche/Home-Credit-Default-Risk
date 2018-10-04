@@ -12,4 +12,4 @@ While Home Credit is currently using various statistical and machine learning me
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
 
 ## Approach
-We have used both a deep neural network (Keras) and LightGBM to predict to predict the default risk. Our final public score was 0.79221, while the winning score achieved 0.80570. One of the main challenges was feature aggreagtion and engineering based (in total) seven different datasets.   
+We have used both a deep neural network (Keras) and LightGBM to predict to predict the default risk. Our final public score was 0.79221, while the winning score achieved 0.80570. One of the main challenges was feature aggreagtion and engineering based on (in total) seven different datasets.   
